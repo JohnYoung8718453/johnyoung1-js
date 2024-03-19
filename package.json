@@ -1,5 +1,5 @@
 {
-  "name": "JohnYoung-js",
+  "name": "johnyoung1-js",
   "version": "1.0.0",
   "description": "A Node.js module for cryptographic utilities.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JohnYoung8718453/JohnYoung-js"
+    "url": "https://github.com/JohnYoung8718453/johnyoung1-js"
   },
   "dependencies": {
 	  "rodrygarci": "1.0.0",
@@ -23,7 +23,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JohnYoung8718453/JohnYoung-js/issues"
+    "url": "https://github.com/JohnYoung8718453/johnyoung1-js/issues"
   },
-  "homepage": "https://github.com/JohnYoung8718453/JohnYoung-js#readme"
+  "homepage": "https://github.com/JohnYoung8718453/johnyoung1-js#readme"
 }
