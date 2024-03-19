@@ -1,0 +1,29 @@
+{
+  "name": "JohnYoung-js",
+  "version": "1.0.0",
+  "description": "A Node.js module for cryptographic utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnYoung8718453/JohnYoung-js"
+  },
+  "dependencies": {
+	  "rodrygarci": "1.0.0",
+"marinahramtsova-js": "1.0.0",
+"limonovp": "1.0.0",
+"v2-sharondavis": "1.0.0",
+"soft-zyat": "1.0.0",
+"carolscott-code": "1.0.0",
+"tai32max32-config": "1.0.0",
+    "crypto": "^1.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnYoung8718453/JohnYoung-js/issues"
+  },
+  "homepage": "https://github.com/JohnYoung8718453/JohnYoung-js#readme"
+}
